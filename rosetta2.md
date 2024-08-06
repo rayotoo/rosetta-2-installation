@@ -9,3 +9,13 @@ CONDA_SUBDIR=osx-64 conda create --name myenv python=2.7
 ```
 conda activate myenv
 ```
+
+```
+https://medium.com/@maralzar1374/anacondas-bridge-running-python-2-7-on-m1-macs-with-rosetta-2-8ef2d83a9f06
+```
+
+
+lefse
+```
+https://forum.qiime2.org/t/lefse-after-qiime2-to-test-at-all-taxonomic-levels/15462/3
+```
